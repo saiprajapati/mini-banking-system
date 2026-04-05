@@ -31,12 +31,12 @@ desktop.ini
 # Manifest (generated during build)
 manifest.txt
 
-# MySQL connector JAR (don't commit binary dependencies)
+# MySQL connector JAR 
 lib/mysql-connector-java*.jar
 
 # Logs
 *.log
 
-# Windows batch convenience scripts (optional to exclude)
+# Windows batch convenience scripts 
 # build_and_run.bat
 # build_and_run.sh
