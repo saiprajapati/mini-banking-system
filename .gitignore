@@ -1,0 +1,42 @@
+# Compiled class files
+*.class
+
+# JAR files
+*.jar
+
+# Build output directory
+bin/
+out/
+build/
+
+# IDE files - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE files - Eclipse
+.classpath
+.project
+.settings/
+
+# IDE files - VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Manifest (generated during build)
+manifest.txt
+
+# MySQL connector JAR (don't commit binary dependencies)
+lib/mysql-connector-java*.jar
+
+# Logs
+*.log
+
+# Windows batch convenience scripts (optional to exclude)
+# build_and_run.bat
+# build_and_run.sh
